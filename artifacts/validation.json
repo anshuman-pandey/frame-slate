@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-11-14T14:43:53.413440+00:00",
+  "status": "local candidate, not publicly shipped",
+  "browser": "Chromium 1234 via Playwright 1.62.1",
+  "passed": [
+    "offline file launch",
+    "horizontal arrow and undo",
+    "solid redaction clears history",
+    "undo after text preserves redaction",
+    "crop and undo",
+    "PNG export and re-import pixel verification",
+    "unsupported SVG rejection",
+    "zero HTTP requests",
+    "zero browser script errors"
+  ],
+  "screenshots": [
+    "studio.png",
+    "mobile.png"
+  ],
+  "unverified": [
+    "touch hardware",
+    "Firefox and Safari",
+    "public deployment",
+    "name collision review",
+    "external distribution"
+  ],
+  "next_action": "Publish package when factory repository exists; review name before release.",
+  "naming_check": "GitHub repository search for quoted shot-cabinet returned no results on 2026-11-14; broader name review still pending."
+}
