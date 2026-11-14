@@ -24,6 +24,6 @@
     "name collision review",
     "external distribution"
   ],
-  "next_action": "Publish package when factory repository exists; review name before release.",
+  "next_action": "Publish package to its independent repository when available; review name before release.",
   "naming_check": "GitHub repository search for quoted shot-cabinet returned no results on 2026-11-14; broader name review still pending."
 }

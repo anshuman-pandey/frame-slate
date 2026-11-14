@@ -35,4 +35,4 @@ First publish a downloadable static package and a runnable demo from the owned r
 
 ## Release status
 
-Locally tested candidate, not a public release. Repository publication and name collision review are pending. Evidence: `artifacts/validation.json`. No stars or merged PRs are attributed to this package yet.
+Locally tested candidate, not a public release. Publication to the independent shot-cabinet repository and name collision review are pending. Evidence: `artifacts/validation.json`. No stars or merged PRs are attributed to this package yet.
