@@ -1,6 +1,6 @@
 # Shot Cabinet
 
-An offline screenshot editor for support replies, bug reports and project launches. Open `index.html` in a current Chromium browser, choose an image, annotate it and export a PNG. No account, server, build step or upload is required. MIT licensed. The name is provisional pending publication checks.
+Open-source alternative to **CleanShot X** for local screenshot annotation and PNG export: arrows, outlines, labels, cropping and opaque redaction. Built for support replies, bug reports and project launches. Open `index.html` in a current Chromium browser, choose an image, annotate it and export a PNG. No account, server, build step or upload is required. MIT licensed. The name is provisional pending publication checks.
 
 ## Use it
 
