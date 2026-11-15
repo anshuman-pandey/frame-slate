@@ -13,3 +13,6 @@ jobs:
       - run: npm ci
       - run: npx playwright install --with-deps chromium
       - run: npm test
+      - run: node --test i18n.catalog.test.cjs
+      - name: Interface languages (isolated fixtures)
+        run: npm run test:i18n
