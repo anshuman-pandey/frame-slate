@@ -36,3 +36,9 @@ First publish a downloadable static package and a runnable demo from the owned r
 ## Release status
 
 Locally tested candidate, not a public release. Publication to the independent shot-cabinet repository and name collision review are pending. Evidence: `artifacts/validation.json`. No stars or merged PRs are attributed to this package yet.
+
+## Interface languages
+
+English · Deutsch · Español · 日本語 · 简体中文 · 繁體中文
+
+The interface follows your browser preferences until you choose a language. Switching keeps your draft and saves your choice locally. Translations are bundled; no translation service or telemetry is used. Your content is never translated. Unknown technical diagnostics fall back to English. See [localization notes](I18N.md) for scope and testing.
