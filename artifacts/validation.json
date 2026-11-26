@@ -25,5 +25,33 @@
     "external distribution"
   ],
   "next_action": "Publish package to its independent repository when available; review name before release.",
-  "naming_check": "GitHub repository search for quoted shot-cabinet returned no results on 2026-11-14; broader name review still pending."
+  "naming_check": "GitHub repository search for quoted shot-cabinet returned no results on 2026-11-14; broader name review still pending.",
+  "current_audit": {
+    "checked_at": "2026-11-26T13:36:59.571702+00:00",
+    "source_head": "06071f52e79da94107234fc276f687a8340d4190",
+    "source_publication": "https://github.com/anshuman-pandey/frame-slate",
+    "source_public": true,
+    "ci": {
+      "conclusion": "success",
+      "headSha": "06071f52e79da94107234fc276f687a8340d4190",
+      "status": "completed",
+      "url": "https://github.com/anshuman-pandey/frame-slate/actions/runs/43703031225"
+    },
+    "local_core_check": {
+      "status": "browser-only suite pending"
+    },
+    "release_urls": [
+      "https://github.com/anshuman-pandey/frame-slate/releases/tag/v0.1.0-preview.1"
+    ],
+    "hosted_demo_url": null,
+    "remaining_gates": [
+      "touch hardware",
+      "Firefox and Safari",
+      "public deployment",
+      "name collision review",
+      "external distribution",
+      "Fresh local-file browser run blocked by administrator policy (ERR_BLOCKED_BY_ADMINISTRATOR); historical passing run retained"
+    ],
+    "note": "Historical validation below is retained as dated evidence. Source publication does not establish a hosted deployment."
+  }
 }
